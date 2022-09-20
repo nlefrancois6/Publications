@@ -7,9 +7,10 @@ Analysis of Convection-Radiation Interactions In Molten Salts Using Particle Ima
 
 Inference of Cosmological Parameters from WMAP Satellite CMB Data - Course Project (Data Science & Observational Astrophysics), April 2021
 
-Developing a Real-Time Weather Simulator - Undergraduate Research Project Report, April 2020
 
 Developing an Artificial Intelligence Agent to Predict Offensive Play Calling In Canadian Football - Collaborative project with McGill Football team, August 2020
+
+Developing a Real-Time Weather Simulator - Undergraduate Research Project Report, April 2020
 
 Characteristic Mapping Method for Smoke Simulation with the Euler Equations - Undergraduate Research Project Report, December 2019
 
