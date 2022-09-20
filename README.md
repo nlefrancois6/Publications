@@ -1,5 +1,6 @@
 # Publications
-Publications and reports from my research and projects
+About
+Publications and reports from my research, courses, and personal projects
 
 Technical Challenges in the Implementation of Particle Image Velocimetry Measurements for Molten Chloride Salts - Canadian Nuclear Society Conference, June 2022
 
