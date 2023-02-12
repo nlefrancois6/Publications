@@ -6,8 +6,7 @@ Technical Challenges in the Implementation of Particle Image Velocimetry Measure
 
 Analysis of Convection-Radiation Interactions In Molten Salts Using Particle Image Velocimetry - NURETH-19 Conference, March 2022
 
-# Reports
-From undergraduate research, course projects, and personal projects.
+# Reports (undergraduate research, course projects, and personal projects)
 
 Inference of Cosmological Parameters from WMAP Satellite CMB Data - Course Project (Data Science & Observational Astrophysics), April 2021
 
