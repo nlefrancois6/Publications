@@ -1,11 +1,13 @@
 # Publications
-Publications and reports from my research, courses, and personal projects
 
 Natural Convection Heat Transfer with Molten Salt in a Differentially-Heated Cavity - NURETH-20 Conference, August 2023 (Under Review)
 
 Technical Challenges in the Implementation of Particle Image Velocimetry Measurements for Molten Chloride Salts - Canadian Nuclear Society Conference, June 2022
 
 Analysis of Convection-Radiation Interactions In Molten Salts Using Particle Image Velocimetry - NURETH-19 Conference, March 2022
+
+# Reports
+From undergraduate research, course projects, and personal projects.
 
 Inference of Cosmological Parameters from WMAP Satellite CMB Data - Course Project (Data Science & Observational Astrophysics), April 2021
 
