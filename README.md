@@ -1,6 +1,6 @@
 # Publications
 
-Natural Convection Heat Transfer with Molten Salt in a Differentially-Heated Cavity - NURETH-20 Conference, August 2023 (Accepted)
+Natural Convection Heat Transfer with Molten Salt in a Differentially-Heated Cavity - NURETH-20 Conference, August 2023
 
 Technical Challenges in the Implementation of Particle Image Velocimetry Measurements for Molten Chloride Salts - Canadian Nuclear Society Conference, June 2022
 
